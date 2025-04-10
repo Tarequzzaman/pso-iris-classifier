@@ -1,0 +1,6 @@
+version: '3.8'
+
+services:
+  pso-iris:
+    build: .
+    container_name: pso-iris-runner
